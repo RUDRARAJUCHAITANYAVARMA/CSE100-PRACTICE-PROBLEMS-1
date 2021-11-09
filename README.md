@@ -1,0 +1,2 @@
+# CSE100-PRACTICE-PROBLEMS-1
+Admission to a professional course is subject to the following conditions: (i) Marks in mathematics must be 60% or above (ii) Marks in physics must be 50% or above (iii) Marks in chemistry must be 40% or above (iv) Total of three subjects must be 200 or above Or Total in mathematics and physics must be 150 or above Given the marks in three subjects, write a flowgram to process the application to list the  eligible candidates.
